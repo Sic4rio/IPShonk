@@ -1,5 +1,6 @@
 
 # SICARIOS IP Grabber
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 SICARIOS IP Grabber is a Python script that retrieves the IP addresses of websites listed in a file. It uses the `socket` module to perform DNS resolution and retrieve the IP address of each domain.
 
@@ -24,6 +25,4 @@ python ip_grabber.py
 
 7. The retrieved IP addresses will be saved to a file named `ips.txt` in the same directory.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
